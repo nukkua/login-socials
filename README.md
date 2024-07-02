@@ -9,9 +9,9 @@ This web application offers a comprehensive authentication system using Firebase
 
 ## Features
 
-    State Management: Utilizes Context API for efficient state management across the application.
-    Local Storage: Stores non-sensitive user information in localStorage to persist data across page reloads.
-    Routing: Implements both private and public routes. Users can access private routes only when authenticated, ensuring route protection.
+- State Management: Utilizes Context API for efficient state management across the application.
+- Local Storage: Stores non-sensitive user information in localStorage to persist data across page reloads.
+- Routing: Implements both private and public routes. Users can access private routes only when authenticated, ensuring route protection.
 
 ## Technologies Used
 
