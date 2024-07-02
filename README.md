@@ -16,8 +16,8 @@ Sign in with Twitter, Google, and GitHub
 ## Technologies Used
 
 Frontend:
-    - HTML, CSS, JavaScript
-    - React.js
+    - HTML, Tailwindcss, Typescript
+    - React with Typescript
     - Context API for state management
 
 Backend:
