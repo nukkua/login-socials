@@ -3,9 +3,9 @@
 
 This web application offers a comprehensive authentication system using Firebase. It supports the following authentication methods:
 
-    Sign in with email and password
-    Sign up with email and password
-    Sign in with Twitter, Google, and GitHub
+Sign in with email and password
+Sign up with email and password
+Sign in with Twitter, Google, and GitHub
 
 ## Features
 
@@ -15,13 +15,13 @@ This web application offers a comprehensive authentication system using Firebase
 
 ## Technologies Used
 
-    Frontend:
-        - HTML, CSS, JavaScript
-        - React.js
-        - Context API for state management
+Frontend:
+    - HTML, CSS, JavaScript
+    - React.js
+    - Context API for state management
 
-    Backend:
-        - Firebase Authentication
+Backend:
+    - Firebase Authentication
 
-    Storage:
-        - LocalStorage for maintaining user state across sessions
+Storage:
+    - LocalStorage for maintaining user state across sessions
