@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input {
+	@apply h-[57px] bg-gray-200 px-7 rounded-2xl placeholder-gray-700 text-gray-700 font-semibold;
+}
+.social {
+	@apply h-[47px] bg-black px-7 rounded-xl flex text-white items-center justify-center gap-4 ;
+}
